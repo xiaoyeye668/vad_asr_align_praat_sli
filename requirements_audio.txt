@@ -1,0 +1,10 @@
+# 本项目 macOS / Python 3.12 实测直接依赖；CUDA 平台按设备安装 PyTorch。
+torch==2.15.0
+torchaudio==2.11.1
+funasr==1.4.17
+qwen-asr==0.0.6
+modelscope==1.40.2
+imageio-ffmpeg==0.7.0
+soundfile==0.14.0
+pypinyin==0.55.0
+praat-parselmouth==0.4.7
